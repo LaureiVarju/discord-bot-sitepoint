@@ -1,10 +1,16 @@
 # TODO
 
 Fixes:
--gettime code will only work in EST currently (grabbing local time and adding +5. Bad)
+-gettime code will only work from EST currently (grabbing local time and adding + is Bad(tm))
 -populate arrays instead of spitting JSON data out
 -create a wait time for punchlines?
--figure out better object handling
+-figure out better object handling/infrastructure
+
+Features:
+-create new entries into users
+-call entries based on user
+-remove old key data
+
 
 Root project is from: https://www.sitepoint.com/discord-bot-node-js/
 

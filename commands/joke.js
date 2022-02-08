@@ -1,6 +1,6 @@
 module.exports = {
   name: '!joke',
-  description: 'Joke!',
+  description: 'A randomized Dad Joke generator',
    execute(msg, args) {
       msg.reply(tell_joke());
       
@@ -88,7 +88,6 @@ let jokes = [
 "What do frogs order at restaurants?\nFrench flies.",
 "What do you call a fake noodle?\nImpasta.",
 "What's orange and sounds like a parrot?\nA carrot.",
-
 "How do I look?\nWith your eyes.",
 "How do you get a country girl's attention?\nA tractor.",
 "Why is the cemetery so popular?\nPeople are just dying to get in there!",

@@ -1,3 +1,11 @@
+
+# TODO
+
+Fix:
+-gettime code will only work in EST currently (grabbing local time and adding +5. Bad)
+-populate arrays instead of spitting JSON data out
+-create a wait time for punchlines?
+
 # How to Build Your First Discord Bot with Node.js
 
 Michiel Mulders shows you how to install and set up a new Discord bot, which is made easier thanks to the API offered by the Discord.js package.

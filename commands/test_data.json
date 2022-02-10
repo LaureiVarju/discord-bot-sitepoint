@@ -1,0 +1,36 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "discordid": "JaneDoe#8868",
+            "characters": [
+                {
+                    "name": "Vizu",
+                    "class": "Shaman",
+                    "level": 60
+                },
+                {
+                    "name": "Rhiona",
+                    "class": "monk",
+                    "level": 22
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "discordid": "Kala#8613",
+            "characters": [
+                {
+                    "name": "Guyfella",
+                    "class": "paladin",
+                    "level": 54
+                },
+                {
+                    "name": "Twinkers",
+                    "class": "warrior",
+                    "level": 12
+                }
+            ]
+        }
+    ]
+}

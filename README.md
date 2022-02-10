@@ -1,4 +1,7 @@
 # TODO
+add colors? to keys? to classes? to names? 
+Find consts and update their naming
+find poorly named functions like tell_joke and fix them to tellJoke()
 
 Fixes:
 -gettime code will only work from EST currently (grabbing local time and adding + is Bad(tm))

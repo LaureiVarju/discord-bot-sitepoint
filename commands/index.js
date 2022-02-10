@@ -4,4 +4,7 @@ module.exports = {
   Key: require('./keys'),
   MyKey: require('./mykeys'),
   GetTime: require('./gettime'),
+  Update: require('./update'),
+  AddUser: require('./adduser'),
+  Response:require('./response'),
 }

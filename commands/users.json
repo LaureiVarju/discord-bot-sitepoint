@@ -1,41 +1,47 @@
 {
-    "users": [
+  "users": [
+    {
+      "id": 1,
+      "discordid": "225812069704925184",
+      "characters": [
         {
-            "id": 1,
-            "discordid": "Rhiona/Vizu#8868",
-            "characters": [
-                {
-                    "name": "Vizu-Elune",    
-                    "class": "Shaman",
-                    "weekly_key": "DOS+20",
-                    "best_role": "healer",
-                    "second_best_role": "DPS"
-                },
-                {
-                    "name": "Rhiona-Elune",
-                    "class": "monk",
-                    "weekly_key": "DOS+20",
-                    "best_role": "healer",
-                    "second_best_role": "DPS"
-                }
-            ]
+          "name": "Vizu-Elune",
+          "class": "(Shaman)",
+          "weekly_key": "DOS [20]",
+          "best_role": "healer",
+          "second_best_role": "DPS"
         },
-        {  "id": 2,
-            "discordid": "someothershmuck",
-            "characters": [
-                {
-                    "class": "shaman",
-                    "name": "Vizu-Elune",
-                    "weekly_key": "DOS+20"
-                },
-                {
-                    "class": "monk",
-                    "name": "Rhiona-Elune",
-                    "weekly_key": "DOS+20"
-                }
-            ]
+        {
+          "name": "Rhiona-Elune",
+          "class": "(Monk)",
+          "weekly_key": "HOA [20]",
+          "best_role": "healer",
+          "second_best_role": "DPS"
         }
-    ]
+      ]
+    },
+    {
+      "id": 2,
+      "discordid": "222059182445035522",
+      "characters": [
+        {
+          "class": "(Death Knight)",
+          "name": "Darkenedone-Elune",
+          "weekly_key": "SD [20]"
+        },
+        {
+          "class": "(Mage)",
+          "name": "Illusion-Elune",
+          "weekly_key": "PF [20]"
+        },
+        {
+          "class": "(Paladin)",
+          "name": "Illyspally-Elune",
+          "weekly_key": "SOA [20]"
+        }
+      ]
+    }
+    
+    
+  ]
 }
-
-
